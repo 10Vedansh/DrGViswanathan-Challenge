@@ -6,14 +6,14 @@ class Solution {
         for(int i=0; i<n;i++){
             if(nums[i]==1){
                 count ++;
-                if(maxcnt<count){
-                    maxcnt=count;
-                }
+                // if(maxcnt<count){
+                //     maxcnt=count;
+                // }
             }
             else{
                 count=0;
             }
-            // maxcnt=Math.max(maxcnt,count);
+            maxcnt=Math.max(maxcnt,count);
         }
         return maxcnt;
     }
