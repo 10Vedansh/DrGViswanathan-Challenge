@@ -13,7 +13,6 @@ class Solution {
             c.add(num);
         }
         
-        
         ArrayList<Integer> e = new ArrayList<>(c);
         return e;
     }
