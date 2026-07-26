@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
