@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
