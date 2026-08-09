@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/3731-find-missing-elements) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/3731-find-missing-elements) |
 ## Counting
