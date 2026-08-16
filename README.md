@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0056-merge-intervals) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/10Vedansh/DrGViswanathan-Challenge/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
